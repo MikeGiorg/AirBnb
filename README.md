@@ -11,7 +11,7 @@ While most hosts list just one property, some manage two or more apartments, and
 
 Although tourist accommodations are typically seen in the city center, our findings show that Airbnb has expanded rentals into residential neighborhoods, despite the city's regulatory efforts. Currently, 73% of hosts live in Berlin, 6% in other German cities, and 22% are based outside Germany.
 
-## Dataset
+## Dataset
 https://insideairbnb.com/
 
 ## Links
