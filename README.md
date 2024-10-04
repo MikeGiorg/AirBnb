@@ -15,4 +15,4 @@ Although tourist accommodations are typically seen in the city center, our findi
 https://insideairbnb.com/
 
 ## Links
-https://public.tableau.com/app/profile/michele.giorgetta/viz/AirBnb_17277092064970/Story1?publish=yes
+https://public.tableau.com/app/profile/michele.giorgetta/viz/AirBnb_17280581312000/Story1
